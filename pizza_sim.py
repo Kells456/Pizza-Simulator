@@ -1,3 +1,5 @@
+"""This is a Pizza Simulation Game"""
+
 prompt = "\nHello and Welcome to Pizza Simulator!"
 prompt += "\nPlease, enter toppings for the Pizza."
 prompt += "\nOnce you are done, please enter 'pizza' to see your pizza with toppings!"
